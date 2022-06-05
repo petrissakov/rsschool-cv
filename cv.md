@@ -1,4 +1,6 @@
 # Petr Isakov
+![Foto](images/foto.jpg)
+
 ## Contacts
  - **Location**: Omsk, Russian Federation
  - **Phone**: +7 908 101 22 87
