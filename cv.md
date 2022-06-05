@@ -17,11 +17,16 @@ I have extensive experience in the telecommunications sector, worked as a networ
 - Python
 - Bash, Powershell
 - Linux hosts administration
-
+ 
 ## Code Example
-```
-def multiply(a,b):
-    return a*b
+```js
+var summation = function (num) {
+  let result=0;
+  for (var i = 1; i <= num; i++){
+    result += i;
+  }
+  return result;
+}
 ```
 
 ## Education
