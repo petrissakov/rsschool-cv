@@ -83,7 +83,7 @@ ul{
 
 .main{
     width: 70%;
-    padding: 0 0 0 20px;
+    padding: 0 0 0 40px;
     display: block;
 }
 
@@ -97,7 +97,6 @@ ul{
 }
 
 #htmlViewer{
-    width: 97%;
     overflow: hidden;
 }
 
